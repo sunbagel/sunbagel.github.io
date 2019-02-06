@@ -49,7 +49,17 @@ h2 {
 .hand{
     position: absolute;
     left: 630px;
-    top: 2556px;
+    top: 2400px;
+}
+.fall1{
+    position: absolute;
+    left: 650px;
+    top: 4200px;
+}
+.fall2{
+    position: absolute;
+    left: 750px;
+    top: 3650px;
 }
 .messagebackground{
     background-color: #bae1ff
@@ -104,4 +114,10 @@ h2 {
 .subinterpret{
     padding-left: 130px;
     padding-right: 150px;
+}
+.end{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    text-align: center;
 }
